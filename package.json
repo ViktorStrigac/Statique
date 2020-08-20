@@ -1,0 +1,24 @@
+{
+  "name": "statique",
+  "version": "1.0.0",
+  "description": "Static webpage with articles realted to structural",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "structural",
+    "mechanics",
+    "analysis",
+    "fem",
+    "finite element method"
+  ],
+  "author": "Viktor Strigac",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
